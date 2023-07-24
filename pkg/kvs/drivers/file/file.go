@@ -7,8 +7,8 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/orznewbie/go-foobar/pkg/kvs"
-	"github.com/orznewbie/go-foobar/pkg/kvs/driver"
+	"github.com/orznewbie/go-study/pkg/kvs"
+	"github.com/orznewbie/go-study/pkg/kvs/driver"
 )
 
 func init() {
