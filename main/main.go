@@ -1,10 +1,13 @@
 package main
 
 import (
+	"context"
 	"fmt"
-	"os"
+	"time"
 )
 
 func main() {
-	fmt.Println(os.TempDir())
+	date := time.Date(1, 1, 1, 1, 1, 1, 1, time.UTC)
+	fmt.Println(date.Sub(time.Now()))
+	context.WithValue()
 }
