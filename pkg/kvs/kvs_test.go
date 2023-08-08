@@ -7,7 +7,7 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/orznewbie/go-foobar/pkg/kvs/driver"
+	"github.com/orznewbie/go-study/pkg/kvs/driver"
 )
 
 func init() {

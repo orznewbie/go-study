@@ -8,7 +8,7 @@ import (
 	"google.golang.org/grpc/codes"
 	"google.golang.org/grpc/status"
 
-	"github.com/orznewbie/go-foobar/pkg/kvs/driver"
+	"github.com/orznewbie/go-study/pkg/kvs/driver"
 )
 
 var (

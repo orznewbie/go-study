@@ -7,7 +7,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/orznewbie/go-foobar/pkg/kvs/driver"
+	"github.com/orznewbie/go-study/pkg/kvs/driver"
 )
 
 type Store struct {
